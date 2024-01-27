@@ -27,7 +27,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 3. **Run the Jupyter Notebook:**
 
    ```bash
-   jupyter notebook Titanic_Survival.ipynb
+   jupyter notebook Titanic-Predictor.ipynb
    ```
 
 ## Data Exploration and Preprocessing
