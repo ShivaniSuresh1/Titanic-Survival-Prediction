@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction
+# Bharat Intern Task 2- Titanic-Survival-Prediction
 ## Overview
 
 This Python project predicts the survival of passengers on the Titanic using machine learning techniques with the "Titanic: Machine Learning from Disaster" dataset from Kaggle.
@@ -69,5 +69,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Kaggle for providing the Titanic dataset.
+
+A big thanks to [Bharat Intern](https://www.linkedin.com/company/bharat-intern/) for providing me the opportunity to work on this highly educative project!
 
 
