@@ -16,7 +16,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/titanic-survival-prediction.git
+   git clone https://github.com/ShivaniSuresh1/titanic-survival-prediction.git
    cd titanic-survival-prediction
    ```
 
@@ -27,13 +27,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 3. **Run the Jupyter Notebook:**
 
    ```bash
-   jupyter notebook Titanic_Survival_Prediction.ipynb
-   ```
-
-   Alternatively, run the Python script:
-
-   ```bash
-   python titanic_survival_prediction.py
+   jupyter notebook Titanic_Survival.ipynb
    ```
 
 ## Data Exploration and Preprocessing
